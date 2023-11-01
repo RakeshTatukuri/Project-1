@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-29T21:28:26 IST" name="Default suite" finished-at="2023-10-29T21:28:27 IST" duration-ms="1006">
+    <groups>
+    </groups>
+    <test started-at="2023-10-29T21:28:26 IST" name="Default test" finished-at="2023-10-29T21:28:27 IST" duration-ms="1006">
+      <class name="Excel.Demo">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:Excel.Demo@10683d9d]" started-at="2023-10-29T21:28:27 IST" name="loginTest" data-provider="credentialssupplier" finished-at="2023-10-29T21:28:27 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rakesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rakesh123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:Excel.Demo@10683d9d]" started-at="2023-10-29T21:28:27 IST" name="loginTest" data-provider="credentialssupplier" finished-at="2023-10-29T21:28:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:Excel.Demo@10683d9d]" started-at="2023-10-29T21:28:27 IST" name="loginTest" data-provider="credentialssupplier" finished-at="2023-10-29T21:28:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shiva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shiva123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:Excel.Demo@10683d9d]" started-at="2023-10-29T21:28:27 IST" name="loginTest" data-provider="credentialssupplier" finished-at="2023-10-29T21:28:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rakesh Tatukuri]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:Excel.Demo@10683d9d]" started-at="2023-10-29T21:28:27 IST" name="loginTest" data-provider="credentialssupplier" finished-at="2023-10-29T21:28:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rakesh Tatukuri]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- Excel.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
